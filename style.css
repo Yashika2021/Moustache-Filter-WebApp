@@ -13,6 +13,3 @@ canvas{
     from{box-shadow: 1px 1px 38px purple;}
     to{box-shadow: 1px 1px 38px black;}
 }
-hr{
-    border-top : 5px dashed purple;
-}
